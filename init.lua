@@ -69,6 +69,9 @@ require('lazy').setup({
   -- Git related plugins
   'tpope/vim-fugitive',
   'tpope/vim-rhubarb',
+ 
+  -- PERSONAL EDIT
+  'github/copilot.vim',
 
   -- Detect tabstop and shiftwidth automatically
   'tpope/vim-sleuth',
